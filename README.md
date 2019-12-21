@@ -1,5 +1,7 @@
 # PreventChannelCancels
-PCC prevents movement while you're channeling a spell. Currently, it's only configured to stop movement while channeling Latent Arcana.
+PCC prevents movement while you're channeling a spell. 
+
+Currently, it's only configured to stop movement while channeling Latent Arcana.
 
 # How to use
 
