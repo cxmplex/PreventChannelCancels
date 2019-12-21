@@ -8,8 +8,6 @@ local _orig_StrafeLeftStart = StrafeLeftStart
 local _orig_StrafeRightStart = StrafeRightStart
 local _orig_CameraOrSelectOrMoveStart = CameraOrSelectOrMoveStart
 
-_orig_MoveForwardStart()
-
 -- hooks
 local function _discardForwardEvent(...)
     if shouldDiscard then return end
