@@ -4,4 +4,3 @@ PCC prevents movement while you're channeling a spell. Currently, it's only conf
 # How to use
 
 Requires EWT for pcc-ewt.lua, requires any unlocker for pcc-unlocker.lua
-
